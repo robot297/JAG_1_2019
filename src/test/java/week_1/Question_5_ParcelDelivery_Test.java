@@ -8,7 +8,7 @@ import static org.junit.Assert.assertTrue;
 import static week_1.Question_5_Parcel_Delivery.calculatePrice;
 import static week_1.Question_5_Parcel_Delivery.canShip;
 
-public class Question_6_ParcelDelivery_Test {
+public class Question_5_ParcelDelivery_Test {
     
     @Test(timeout=3000)
     public void testCanShip() {
