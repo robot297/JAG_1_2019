@@ -20,7 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="Java Auto Grader Wk 1" target="12" />
+      <module name="Java Auto Grader Wk 1" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

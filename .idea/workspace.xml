@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="New intellij" />
+    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="Initial file open">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Question_4_MailPrices_Test">
+  <component name="RunManager" selected="Application.Question_2_Quiz_Question">
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -227,6 +229,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question_2_Quiz_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_1.Question_2_Quiz_Question" />
+      <module name="Java Auto Grader Wk 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Question_5_Quiz_Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_1.Question_5_Quiz_Question" />
       <module name="Java Auto Grader Wk 1" />
@@ -284,15 +300,6 @@
       <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2" />
-    </configuration>
-    <configuration name="All in Java Auto Grader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java Auto Grader Wk 1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Question_4_MailPrices_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java Auto Grader Wk 1" />
@@ -368,17 +375,17 @@
     <list>
       <item itemvalue="Application.Question_5_Quiz_Question" />
       <item itemvalue="Application.Question_1_Miles_From_MCTC" />
-      <item itemvalue="JUnit.All in Java Auto Grader" />
       <item itemvalue="JUnit.Question_5_QuizQuestion_Test.testQuizChecker" />
       <item itemvalue="JUnit.Question_4_MailPrices_Test" />
+      <item itemvalue="Application.Question_2_Quiz_Question" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question_2_Quiz_Question" />
         <item itemvalue="JUnit.Question_4_MailPrices_Test" />
         <item itemvalue="Application.Question_1_Miles_From_MCTC" />
         <item itemvalue="Application.Question_5_Quiz_Question" />
         <item itemvalue="JUnit.Question_5_QuizQuestion_Test.testQuizChecker" />
-        <item itemvalue="JUnit.All in Java Auto Grader" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +415,7 @@
       <workItem from="1546792528114" duration="1964000" />
       <workItem from="1564359603003" duration="1856000" />
       <workItem from="1565587787891" duration="640000" />
-      <workItem from="1565588660499" duration="276000" />
+      <workItem from="1565588660499" duration="2030000" />
     </task>
     <task id="LOCAL-00001" summary="Comments">
       <created>1496164236471</created>
@@ -571,7 +578,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565588844152</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Initial file open">
+      <created>1565589002269</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1565589002269</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
@@ -624,7 +638,8 @@
     <MESSAGE value="Config files for autograder" />
     <MESSAGE value="Tidying, cleanup of comments" />
     <MESSAGE value="New intellij" />
-    <option name="LAST_COMMIT_MESSAGE" value="New intellij" />
+    <MESSAGE value="Initial file open" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial file open" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
