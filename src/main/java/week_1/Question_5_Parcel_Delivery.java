@@ -6,9 +6,9 @@ import static input.InputUtils.doubleInput;
  *
  * A parcel delivery company charges the following rates to ship a parcel.
  
- •	Up to 10 pounds: $2.15 per pound
- •	Up to 20 pounds: $1.55 per pound
- •	Up to 30 pounds: $1.15 per pound
+ •	Up to and including 10 pounds: $2.15 per pound
+ •	Up to and including 20 pounds: $1.55 per pound
+ •	Up to and including 30 pounds: $1.15 per pound
  
  The shipping company does not ship parcels that weigh over 30 pounds.
  
@@ -56,9 +56,9 @@ public class Question_5_Parcel_Delivery {
         // TODO assume parcel is a valid weight. Figure out price to ship this parcel.
         
         //  Parcel prices:
-        //  Up to 10 pounds: $2.15 per pound
-        //  Up to 20 pounds: $1.55 per pound
-        //  Up to 30 pounds: $1.15 per pound
+        //  Up to and including 10 pounds: $2.15 per pound
+        //  Up to and including 20 pounds: $1.55 per pound
+        //  Up to and including 30 pounds: $1.15 per pound
         
         return 0;   //Replace this with your calculated price
         

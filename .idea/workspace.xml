@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="Java 11" />
+    <list default="true" id="f843e1bd-82f4-4db8-bae4-5443586cd734" name="Default" comment="Renumber test file name" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -415,6 +415,7 @@
       <workItem from="1565587787891" duration="640000" />
       <workItem from="1565588660499" duration="2030000" />
       <workItem from="1566491282146" duration="94000" />
+      <workItem from="1566491458114" duration="159000" />
     </task>
     <task id="LOCAL-00001" summary="Comments">
       <created>1496164236471</created>
@@ -591,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566491364106</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Renumber test file name">
+      <created>1566491612051</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1566491612051</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -646,7 +654,8 @@
     <MESSAGE value="New intellij" />
     <MESSAGE value="Initial file open" />
     <MESSAGE value="Java 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java 11" />
+    <MESSAGE value="Renumber test file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renumber test file name" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
