@@ -39,4 +39,4 @@ Once you've finished the lab, commit all of your new code, and push it to GitHub
 
 ## Help??!!
 
-Please ask Clara if you have any questions, or need help. 
+Please ask Dan if you have any questions, or need help. 
